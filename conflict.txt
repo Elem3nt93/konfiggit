@@ -1,1 +1,1 @@
-Konflikt-Test
+Zeile aus Repo A
